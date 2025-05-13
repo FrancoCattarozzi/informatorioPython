@@ -16,7 +16,7 @@ lista.append("nuevo")
 print(lista)
 
 # agregar un numero en el indice número 3
-lista.insert(3, "Adios")
+lista.insert(3, "Adios mundo")
 print(lista)
 
 # eleminar el ultimo elemento por defecto sino ingresar el índice
