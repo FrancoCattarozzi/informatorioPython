@@ -22,5 +22,3 @@ print(lista)
 # eleminar el ultimo elemento por defecto sino ingresar el índice
 lista.pop(3)
 print(lista)
-
-# cambio
